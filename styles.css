@@ -1,0 +1,19 @@
+h1 {
+    color: navy;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+h3 {
+    color: navy;
+}
+
+.link {
+    font-family: Elephant, Georgia;
+    color: navy;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
